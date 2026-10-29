@@ -1,0 +1,479 @@
+{
+  "project": {
+    "name": "Commercial Solar Installation",
+    "location": "Windsor, Ontario, Canada",
+    "capacity_kw": 150,
+    "budget_cad": 260000,
+    "deadline_weeks": 16
+  },
+  "proposals": [
+    {
+      "proposal_id": "A",
+      "mandatory_evidence": {
+        "ontario_electrical_licence": {
+          "status": "confirmed",
+          "bidder_is_license_holder": true,
+          "licence_number": "7001234",
+          "evidence": [
+            {
+              "quote": "We hold an Ontario electrical contractor licence (ECRA/ESA #7001234)",
+              "page": null
+            }
+          ]
+        },
+        "wsib_clearance": {
+          "status": "confirmed",
+          "evidence": [
+            {
+              "quote": "current WSIB clearance",
+              "page": null
+            }
+          ]
+        },
+        "liability_insurance": {
+          "status": "confirmed",
+          "coverage_amount_cad": 5000000,
+          "evidence": [
+            {
+              "quote": "$5M commercial general liability insurance",
+              "page": null
+            }
+          ]
+        }
+      },
+      "weighted_criteria": {
+        "experience": {
+          "status": "confirmed",
+          "qualifying_installations_count": 14,
+          "summary": "14 commercial installations between 100 kW and 400 kW since 2021",
+          "evidence": [
+            {
+              "quote": "Northshore Solar has completed 14 commercial installations between 100 kW and 400 kW since 2021",
+              "page": null
+            }
+          ]
+        },
+        "price": {
+          "status": "confirmed",
+          "total_price_cad": 238000,
+          "evidence": [
+            {
+              "quote": "Our total price is $238,000 CAD, including permits and utility connection",
+              "page": null
+            }
+          ]
+        },
+        "timeline": {
+          "status": "confirmed",
+          "completion_weeks": 12,
+          "evidence": [
+            {
+              "quote": "We will complete the installation within 12 weeks of award",
+              "page": null
+            }
+          ]
+        },
+        "warranty": {
+          "status": "confirmed",
+          "panel_years": 25,
+          "workmanship_years": 10,
+          "evidence": [
+            {
+              "quote": "Panels carry a 25-year manufacturer warranty, and our workmanship is warranteed for 10 years",
+              "page": null
+            }
+          ]
+        },
+        "team_approach": {
+          "status": "confirmed",
+          "project_lead": "named senior project manager",
+          "crew_details": "six-person certified crew",
+          "safety_plan": "site safety plan",
+          "monitoring_plan": "12 months of remote performance monitoring",
+          "evidence": [
+            {
+              "quote": "The project will be led by a named senior project manager with a six-person certified crew. We include a site safety plan and 12 months of remote performance monitoring",
+              "page": null
+            }
+          ]
+        }
+      },
+      "warnings": []
+    },
+    {
+      "proposal_id": "B",
+      "mandatory_evidence": {
+        "ontario_electrical_licence": {
+          "status": "failed",
+          "bidder_is_license_holder": false,
+          "licence_number": null,
+          "evidence": [
+            {
+              "quote": "Electrical work will be completed by a licensed electrical subcontractor, to be confirmed after contract award.",
+              "page": null
+            }
+          ]
+        },
+        "wsib_clearance": {
+          "status": "confirmed",
+          "evidence": [
+            {
+              "quote": "We carry WSIB clearance",
+              "page": null
+            }
+          ]
+        },
+        "liability_insurance": {
+          "status": "confirmed",
+          "coverage_amount_cad": 5000000,
+          "evidence": [
+            {
+              "quote": "$5M liability insurance",
+              "page": null
+            }
+          ]
+        }
+      },
+      "weighted_criteria": {
+        "experience": {
+          "status": "confirmed",
+          "qualifying_installations_count": 6,
+          "summary": "Six commercial solar projects over 100 kW completed in the past four years.",
+          "evidence": [
+            {
+              "quote": "Our team has delivered six commercial solar projects over 100 kW in the past four years.",
+              "page": null
+            }
+          ]
+        },
+        "price": {
+          "status": "confirmed",
+          "total_price_cad": 189500,
+          "evidence": [
+            {
+              "quote": "$189,500 CAD all-in",
+              "page": null
+            }
+          ]
+        },
+        "timeline": {
+          "status": "confirmed",
+          "completion_weeks": 10,
+          "evidence": [
+            {
+              "quote": "We can finish in 10 weeks",
+              "page": null
+            }
+          ]
+        },
+        "warranty": {
+          "status": "confirmed",
+          "panel_years": 25,
+          "workmanship_years": 5,
+          "evidence": [
+            {
+              "quote": "Panels include a 25-year warranty and workmanship is covered for 5 years.",
+              "page": null
+            }
+          ]
+        },
+        "team_approach": {
+          "status": "needs_review",
+          "project_lead": "project coordinator",
+          "crew_details": "",
+          "safety_plan": "",
+          "monitoring_plan": "",
+          "evidence": [
+            {
+              "quote": "A project coordinator will be assigned at kickoff.",
+              "page": null
+            }
+          ]
+        }
+      },
+      "warnings": [
+        "Bidder does not confirm holding an Ontario electrical contractor licence."
+      ]
+    },
+    {
+      "proposal_id": "C",
+      "mandatory_evidence": {
+        "ontario_electrical_licence": {
+          "status": "confirmed",
+          "bidder_is_license_holder": true,
+          "licence_number": "ECRA/ESA #7005678",
+          "evidence": [
+            {
+              "quote": "We hold an Ontario electrical contractor licence (ECRA/ESA #7005678)",
+              "page": null
+            }
+          ]
+        },
+        "wsib_clearance": {
+          "status": "confirmed",
+          "evidence": [
+            {
+              "quote": "WSIB clearance",
+              "page": null
+            }
+          ]
+        },
+        "liability_insurance": {
+          "status": "confirmed",
+          "coverage_amount_cad": 5000000,
+          "evidence": [
+            {
+              "quote": "$5M liability insurance",
+              "page": null
+            }
+          ]
+        }
+      },
+      "weighted_criteria": {
+        "experience": {
+          "status": "confirmed",
+          "qualifying_installations_count": 9,
+          "summary": "nine commercial installations of 100 kW or more since 2020",
+          "evidence": [
+            {
+              "quote": "Lakeview Renewables has completed nine commercial installations of 100 kW or more since 2020",
+              "page": null
+            }
+          ]
+        },
+        "price": {
+          "status": "confirmed",
+          "total_price_cad": 244000,
+          "evidence": [
+            {
+              "quote": "Our price is $244,000 CAD",
+              "page": null
+            }
+          ]
+        },
+        "timeline": {
+          "status": "confirmed",
+          "completion_weeks": 14,
+          "evidence": [
+            {
+              "quote": "schedule is 14 weeks from award",
+              "page": null
+            }
+          ]
+        },
+        "warranty": {
+          "status": "confirmed",
+          "panel_years": 25,
+          "workmanship_years": 10,
+          "evidence": [
+            {
+              "quote": "We offer a 25-year panel warranty and a 10-year workmanship warranty",
+              "page": null
+            }
+          ]
+        },
+        "team_approach": {
+          "status": "confirmed",
+          "project_lead": "",
+          "crew_details": "five-person crew",
+          "safety_plan": "",
+          "monitoring_plan": "weekly progress reports",
+          "evidence": [
+            {
+              "quote": "A named project lead and a five-person crew will deliver the work, with weekly progress reports",
+              "page": null
+            }
+          ]
+        }
+      },
+      "warnings": []
+    },
+    {
+      "proposal_id": "D",
+      "mandatory_evidence": {
+        "ontario_electrical_licence": {
+          "status": "confirmed",
+          "bidder_is_license_holder": true,
+          "licence_number": "ECRA/ESA #7009012",
+          "evidence": [
+            {
+              "quote": "We hold an Ontario electrical contractor licence (ECRA/ESA #7009012)",
+              "page": null
+            }
+          ]
+        },
+        "wsib_clearance": {
+          "status": "confirmed",
+          "evidence": [
+            {
+              "quote": "WSIB clearance",
+              "page": null
+            }
+          ]
+        },
+        "liability_insurance": {
+          "status": "confirmed",
+          "coverage_amount_cad": 5000000,
+          "evidence": [
+            {
+              "quote": "$5M liability insurance",
+              "page": null
+            }
+          ]
+        }
+      },
+      "weighted_criteria": {
+        "experience": {
+          "status": "confirmed",
+          "qualifying_installations_count": 11,
+          "summary": "11 commercial installations over 100 kW in the last five years",
+          "evidence": [
+            {
+              "quote": "Essex Green Power has delivered 11 commercial installations over 100 kW in the last five years",
+              "page": null
+            }
+          ]
+        },
+        "price": {
+          "status": "confirmed",
+          "total_price_cad": 231000,
+          "evidence": [
+            {
+              "quote": "Our price is $231,000 CAD",
+              "page": null
+            }
+          ]
+        },
+        "timeline": {
+          "status": "needs_review",
+          "completion_weeks": null,
+          "evidence": [
+            {
+              "quote": "The installation schedule will be determined after a detailed site assessment",
+              "page": null
+            }
+          ]
+        },
+        "warranty": {
+          "status": "confirmed",
+          "panel_years": 25,
+          "workmanship_years": 10,
+          "evidence": [
+            {
+              "quote": "Panels carry a 25-year warranty and workmanship is covered for 10 years",
+              "page": null
+            }
+          ]
+        },
+        "team_approach": {
+          "status": "confirmed",
+          "project_lead": "named project manager",
+          "crew_details": "",
+          "safety_plan": "safety plan",
+          "monitoring_plan": "",
+          "evidence": [
+            {
+              "quote": "Our approach includes a named project manager, a structural roof review, and a safety plan",
+              "page": null
+            }
+          ]
+        }
+      },
+      "warnings": []
+    },
+    {
+      "proposal_id": "E",
+      "mandatory_evidence": {
+        "ontario_electrical_licence": {
+          "status": "confirmed",
+          "bidder_is_license_holder": true,
+          "licence_number": "ECRA/ESA #7003456",
+          "evidence": [
+            {
+              "quote": "We hold an Ontario electrical contractor licence (ECRA/ESA #7003456)",
+              "page": null
+            }
+          ]
+        },
+        "wsib_clearance": {
+          "status": "confirmed",
+          "evidence": [
+            {
+              "quote": "WSIB clearance",
+              "page": null
+            }
+          ]
+        },
+        "liability_insurance": {
+          "status": "confirmed",
+          "coverage_amount_cad": 5000000,
+          "evidence": [
+            {
+              "quote": "$5M liability insurance",
+              "page": null
+            }
+          ]
+        }
+      },
+      "weighted_criteria": {
+        "experience": {
+          "status": "confirmed",
+          "qualifying_installations_count": 8,
+          "summary": "Eight commercial installations of 100 kW or more completed since 2021",
+          "evidence": [
+            {
+              "quote": "SunGrid Contractors has completed eight commercial installations of 100 kW or more since 2021",
+              "page": null
+            }
+          ]
+        },
+        "price": {
+          "status": "confirmed",
+          "total_price_cad": 242500,
+          "evidence": [
+            {
+              "quote": "Our price is $242,500 CAD",
+              "page": null
+            }
+          ]
+        },
+        "timeline": {
+          "status": "confirmed",
+          "completion_weeks": 13,
+          "evidence": [
+            {
+              "quote": "completion in 13 weeks",
+              "page": null
+            }
+          ]
+        },
+        "warranty": {
+          "status": "confirmed",
+          "panel_years": 25,
+          "workmanship_years": 12,
+          "evidence": [
+            {
+              "quote": "We provide a 25-year panel warranty and a 12-year workmanship warranty",
+              "page": null
+            }
+          ]
+        },
+        "team_approach": {
+          "status": "confirmed",
+          "project_lead": "",
+          "crew_details": "six-person crew",
+          "safety_plan": "safety plan",
+          "monitoring_plan": "24 months of performance monitoring",
+          "evidence": [
+            {
+              "quote": "A named project lead and a six-person crew will deliver the project. We include a safety plan, a roof load assessment, and 24 months of performance monitoring",
+              "page": null
+            }
+          ]
+        }
+      },
+      "warnings": []
+    }
+  ],
+  "failures": []
+}

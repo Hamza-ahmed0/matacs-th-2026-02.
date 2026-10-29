@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 81.47,
+    "reason": "Eligible proposal ranked based on weighted evaluation; total score 81.47."
+  },
+  {
+    "proposal": "D",
+    "rank": 2,
+    "status": "flagged",
+    "score": 69.82,
+    "reason": "Human review required: proposal details need verification."
+  },
+  {
+    "proposal": "E",
+    "rank": 3,
+    "status": "ranked",
+    "score": 61.29,
+    "reason": "Eligible proposal ranked based on weighted evaluation; total score 61.29."
+  },
+  {
+    "proposal": "C",
+    "rank": 4,
+    "status": "ranked",
+    "score": 56.2,
+    "reason": "Eligible proposal ranked based on weighted evaluation; total score 56.20."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Mandatory requirement not met or not confirmed."
+  }
+]
